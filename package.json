@@ -1,0 +1,63 @@
+{
+  "$schema": "https://www.raycast.com/schemas/extension.json",
+  "name": "image-diff-checker",
+  "title": "Image Diff Checker",
+  "description": "Image Diff Checker compares two images and highlights the differences. It supports file formats such as JPEG, JPG, PNG, and GIF.",
+  "icon": "image-diff-checker-icon.png",
+  "author": "almatkai",
+  "categories": [
+    "Developer Tools"
+  ],
+  "license": "MIT",
+  "commands": [
+    {
+      "name": "image-diff-check",
+      "title": "Image Diff Check",
+      "subtitle": "Image Diff Checker",
+      "description": "Compares two images to identify differences.",
+      "mode": "view",
+      "platforms": [
+        "macOS",
+        "Windows"
+      ]
+    }
+  ],
+  "dependencies": {
+    "@raycast/api": "^1.104.1",
+    "@raycast/utils": "^2.2.2",
+    "jimp": "^1.6.0",
+    "pixelmatch": "^7.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "tsx": "^4.22.4",
+    "typescript": "^5.9.3"
+  },
+  "scripts": {
+    "build": "ray build -e dist",
+    "typecheck": "tsc --noEmit",
+    "test": "node --import tsx --test test/*.test.ts"
+  },
+  "id": "com.tezbar.image-diff-checker",
+  "platforms": [
+    "macOS",
+    "Windows"
+  ],
+  "version": "0.1.0",
+  "tezbar": {
+    "schemaVersion": 1,
+    "platforms": [
+      "macos",
+      "windows"
+    ],
+    "linuxStatus": "coming-soon",
+    "repository": "https://github.com/almatkai/image-diff-checker",
+    "upstream": {
+      "repository": "https://github.com/raycast/extensions",
+      "path": "extensions/image-diff-checker",
+      "commit": "6734d85992290066fd31a7f5bee3cca3d3545a1a"
+    }
+  }
+}
