@@ -3,7 +3,7 @@
   "name": "image-diff-checker",
   "title": "Image Diff Checker",
   "description": "Image Diff Checker compares two images and highlights the differences. It supports file formats such as JPEG, JPG, PNG, and GIF.",
-  "icon": "image-diff-checker-icon.png",
+  "icon": "assets/image-diff-checker-icon.png",
   "author": "almatkai",
   "categories": [
     "Developer Tools"
