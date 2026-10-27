@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 3,
+  "id": "com.tezbar.native.image-diff-checker",
+  "slug": "image-diff-checker",
+  "name": "Image Diff Checker",
+  "version": "0.1.0",
+  "description": "Image Diff Checker compares two images and highlights the differences. It supports file formats such as JPEG, JPG, PNG, and GIF.",
+  "icon": "resources/image-diff-checker-icon.png",
+  "runtime": "rust",
+  "execution": "process",
+  "protocolVersion": 1,
+  "repository": "https://github.com/almatkai/image-diff-checker",
+  "author": "almatkai",
+  "platforms": [
+    "macOS",
+    "Windows"
+  ],
+  "preferences": [],
+  "replaces": [
+    "com.tezbar.image-diff-checker",
+    "raycast.image-diff-checker"
+  ],
+  "commands": [
+    {
+      "name": "image-diff-check",
+      "title": "Image Diff Check",
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "runtime": "rust",
+      "timeoutMs": 300000,
+      "refreshMs": null,
+      "concurrency": "reject-while-busy"
+    }
+  ],
+  "capabilities": [],
+  "artifacts": {},
+  "verification": [
+    {
+      "platform": "macOS",
+      "state": "not-run",
+      "note": "Real native GUI acceptance has not run."
+    },
+    {
+      "platform": "Windows",
+      "state": "not-run",
+      "note": "Real native GUI acceptance has not run."
+    }
+  ]
+}

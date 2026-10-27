@@ -1,0 +1,3260 @@
+{
+  "decode": [
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "adam7.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "alpha.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "animated.gif"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "changed.png"
+    },
+    {
+      "differentChannels": 57,
+      "differentPixels": 49,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 1,
+      "path": "cmyk.jpg"
+    },
+    {
+      "differentChannels": 333,
+      "differentPixels": 191,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 2,
+      "path": "color-q35-s0.jpg"
+    },
+    {
+      "differentChannels": 617,
+      "differentPixels": 219,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 49,
+      "path": "color-q35-s1.jpg"
+    },
+    {
+      "differentChannels": 631,
+      "differentPixels": 221,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 63,
+      "path": "color-q35-s2.jpg"
+    },
+    {
+      "differentChannels": 358,
+      "differentPixels": 196,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 2,
+      "path": "color-q95-s0.jpg"
+    },
+    {
+      "differentChannels": 620,
+      "differentPixels": 221,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 68,
+      "path": "color-q95-s1.jpg"
+    },
+    {
+      "differentChannels": 638,
+      "differentPixels": 220,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 77,
+      "path": "color-q95-s2.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        9,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "edge-0.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        9,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "edge-1.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "gray-alpha.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "gray-alpha16.png"
+    },
+    {
+      "differentChannels": 60,
+      "differentPixels": 20,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 1,
+      "path": "gray.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "gray1.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "gray16.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "gray8.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        23,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "offset-firstframe.gif"
+    },
+    {
+      "differentChannels": 358,
+      "differentPixels": 196,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 2,
+      "path": "orientation-1.jpg"
+    },
+    {
+      "differentChannels": 358,
+      "differentPixels": 196,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 2,
+      "path": "orientation-2.jpg"
+    },
+    {
+      "differentChannels": 358,
+      "differentPixels": 196,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 2,
+      "path": "orientation-3.jpg"
+    },
+    {
+      "differentChannels": 358,
+      "differentPixels": 196,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 2,
+      "path": "orientation-4.jpg"
+    },
+    {
+      "differentChannels": 358,
+      "differentPixels": 196,
+      "dimensions": [
+        13,
+        17
+      ],
+      "maxChannelDelta": 2,
+      "path": "orientation-5.jpg"
+    },
+    {
+      "differentChannels": 358,
+      "differentPixels": 196,
+      "dimensions": [
+        13,
+        17
+      ],
+      "maxChannelDelta": 2,
+      "path": "orientation-6.jpg"
+    },
+    {
+      "differentChannels": 358,
+      "differentPixels": 196,
+      "dimensions": [
+        13,
+        17
+      ],
+      "maxChannelDelta": 2,
+      "path": "orientation-7.jpg"
+    },
+    {
+      "differentChannels": 358,
+      "differentPixels": 196,
+      "dimensions": [
+        13,
+        17
+      ],
+      "maxChannelDelta": 2,
+      "path": "orientation-8.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "palette2.png"
+    },
+    {
+      "differentChannels": 643,
+      "differentPixels": 221,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 76,
+      "path": "progressive.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "rgb.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "rgb16.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "rgba16.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "transparent-hidden.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "transparent-other.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "transparent.gif"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "trns-gray.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "trns-rgb.png"
+    }
+  ],
+  "nativeRepresentationDifferences": [
+    {
+      "a": "cmyk.jpg",
+      "b": "cmyk.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 1,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.0
+    },
+    {
+      "a": "cmyk.jpg",
+      "b": "cmyk.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 1,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.1
+    },
+    {
+      "a": "cmyk.jpg",
+      "b": "cmyk.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 1,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.2
+    },
+    {
+      "a": "cmyk.jpg",
+      "b": "cmyk.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 1,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.3
+    },
+    {
+      "a": "cmyk.jpg",
+      "b": "cmyk.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 1,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.4
+    },
+    {
+      "a": "cmyk.jpg",
+      "b": "cmyk.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 1,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.5
+    },
+    {
+      "a": "cmyk.jpg",
+      "b": "cmyk.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 1,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.6
+    },
+    {
+      "a": "cmyk.jpg",
+      "b": "cmyk.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 1,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.7
+    },
+    {
+      "a": "cmyk.jpg",
+      "b": "cmyk.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 1,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.8
+    },
+    {
+      "a": "cmyk.jpg",
+      "b": "cmyk.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 1,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.9
+    },
+    {
+      "a": "cmyk.jpg",
+      "b": "cmyk.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 1,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 1.0
+    },
+    {
+      "a": "color-q35-s0.jpg",
+      "b": "color-q35-s0.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 8,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.0
+    },
+    {
+      "a": "color-q35-s0.jpg",
+      "b": "color-q35-s0.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 8,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.1
+    },
+    {
+      "a": "color-q35-s0.jpg",
+      "b": "color-q35-s0.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 8,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.2
+    },
+    {
+      "a": "color-q35-s0.jpg",
+      "b": "color-q35-s0.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 8,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.3
+    },
+    {
+      "a": "color-q35-s0.jpg",
+      "b": "color-q35-s0.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 8,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.4
+    },
+    {
+      "a": "color-q35-s0.jpg",
+      "b": "color-q35-s0.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 8,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.5
+    },
+    {
+      "a": "color-q35-s0.jpg",
+      "b": "color-q35-s0.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 8,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.6
+    },
+    {
+      "a": "color-q35-s0.jpg",
+      "b": "color-q35-s0.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 8,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.7
+    },
+    {
+      "a": "color-q35-s0.jpg",
+      "b": "color-q35-s0.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 8,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.8
+    },
+    {
+      "a": "color-q35-s0.jpg",
+      "b": "color-q35-s0.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 8,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.9
+    },
+    {
+      "a": "color-q35-s0.jpg",
+      "b": "color-q35-s0.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 8,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 1.0
+    },
+    {
+      "a": "color-q35-s1.jpg",
+      "b": "color-q35-s1.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.0
+    },
+    {
+      "a": "color-q35-s1.jpg",
+      "b": "color-q35-s1.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.1
+    },
+    {
+      "a": "color-q35-s1.jpg",
+      "b": "color-q35-s1.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.2
+    },
+    {
+      "a": "color-q35-s1.jpg",
+      "b": "color-q35-s1.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.3
+    },
+    {
+      "a": "color-q35-s1.jpg",
+      "b": "color-q35-s1.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.4
+    },
+    {
+      "a": "color-q35-s1.jpg",
+      "b": "color-q35-s1.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.5
+    },
+    {
+      "a": "color-q35-s1.jpg",
+      "b": "color-q35-s1.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.6
+    },
+    {
+      "a": "color-q35-s1.jpg",
+      "b": "color-q35-s1.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.7
+    },
+    {
+      "a": "color-q35-s1.jpg",
+      "b": "color-q35-s1.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.8
+    },
+    {
+      "a": "color-q35-s1.jpg",
+      "b": "color-q35-s1.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.9
+    },
+    {
+      "a": "color-q35-s1.jpg",
+      "b": "color-q35-s1.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 1.0
+    },
+    {
+      "a": "color-q35-s2.jpg",
+      "b": "color-q35-s2.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 17,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.0
+    },
+    {
+      "a": "color-q35-s2.jpg",
+      "b": "color-q35-s2.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 17,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.1
+    },
+    {
+      "a": "color-q35-s2.jpg",
+      "b": "color-q35-s2.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 17,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.2
+    },
+    {
+      "a": "color-q35-s2.jpg",
+      "b": "color-q35-s2.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 17,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.3
+    },
+    {
+      "a": "color-q35-s2.jpg",
+      "b": "color-q35-s2.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 17,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.4
+    },
+    {
+      "a": "color-q35-s2.jpg",
+      "b": "color-q35-s2.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 17,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.5
+    },
+    {
+      "a": "color-q35-s2.jpg",
+      "b": "color-q35-s2.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 17,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.6
+    },
+    {
+      "a": "color-q35-s2.jpg",
+      "b": "color-q35-s2.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 17,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.7
+    },
+    {
+      "a": "color-q35-s2.jpg",
+      "b": "color-q35-s2.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 17,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.8
+    },
+    {
+      "a": "color-q35-s2.jpg",
+      "b": "color-q35-s2.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 17,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.9
+    },
+    {
+      "a": "color-q35-s2.jpg",
+      "b": "color-q35-s2.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 17,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 1.0
+    },
+    {
+      "a": "color-q95-s0.jpg",
+      "b": "color-q95-s0.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.0
+    },
+    {
+      "a": "color-q95-s0.jpg",
+      "b": "color-q95-s0.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.1
+    },
+    {
+      "a": "color-q95-s0.jpg",
+      "b": "color-q95-s0.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.2
+    },
+    {
+      "a": "color-q95-s0.jpg",
+      "b": "color-q95-s0.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.3
+    },
+    {
+      "a": "color-q95-s0.jpg",
+      "b": "color-q95-s0.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.4
+    },
+    {
+      "a": "color-q95-s0.jpg",
+      "b": "color-q95-s0.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.5
+    },
+    {
+      "a": "color-q95-s0.jpg",
+      "b": "color-q95-s0.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.6
+    },
+    {
+      "a": "color-q95-s0.jpg",
+      "b": "color-q95-s0.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.7
+    },
+    {
+      "a": "color-q95-s0.jpg",
+      "b": "color-q95-s0.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.8
+    },
+    {
+      "a": "color-q95-s0.jpg",
+      "b": "color-q95-s0.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.9
+    },
+    {
+      "a": "color-q95-s0.jpg",
+      "b": "color-q95-s0.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 1.0
+    },
+    {
+      "a": "color-q95-s1.jpg",
+      "b": "color-q95-s1.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 14,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.0
+    },
+    {
+      "a": "color-q95-s1.jpg",
+      "b": "color-q95-s1.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 14,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.1
+    },
+    {
+      "a": "color-q95-s1.jpg",
+      "b": "color-q95-s1.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 14,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.2
+    },
+    {
+      "a": "color-q95-s1.jpg",
+      "b": "color-q95-s1.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 14,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.3
+    },
+    {
+      "a": "color-q95-s1.jpg",
+      "b": "color-q95-s1.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 14,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.4
+    },
+    {
+      "a": "color-q95-s1.jpg",
+      "b": "color-q95-s1.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 14,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.5
+    },
+    {
+      "a": "color-q95-s1.jpg",
+      "b": "color-q95-s1.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 14,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.6
+    },
+    {
+      "a": "color-q95-s1.jpg",
+      "b": "color-q95-s1.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 14,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.7
+    },
+    {
+      "a": "color-q95-s1.jpg",
+      "b": "color-q95-s1.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 14,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.8
+    },
+    {
+      "a": "color-q95-s1.jpg",
+      "b": "color-q95-s1.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 14,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.9
+    },
+    {
+      "a": "color-q95-s1.jpg",
+      "b": "color-q95-s1.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 14,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 1.0
+    },
+    {
+      "a": "color-q95-s2.jpg",
+      "b": "color-q95-s2.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 16,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.0
+    },
+    {
+      "a": "color-q95-s2.jpg",
+      "b": "color-q95-s2.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 16,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.1
+    },
+    {
+      "a": "color-q95-s2.jpg",
+      "b": "color-q95-s2.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 16,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.2
+    },
+    {
+      "a": "color-q95-s2.jpg",
+      "b": "color-q95-s2.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 16,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.3
+    },
+    {
+      "a": "color-q95-s2.jpg",
+      "b": "color-q95-s2.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 16,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.4
+    },
+    {
+      "a": "color-q95-s2.jpg",
+      "b": "color-q95-s2.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 16,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.5
+    },
+    {
+      "a": "color-q95-s2.jpg",
+      "b": "color-q95-s2.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 16,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.6
+    },
+    {
+      "a": "color-q95-s2.jpg",
+      "b": "color-q95-s2.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 16,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.7
+    },
+    {
+      "a": "color-q95-s2.jpg",
+      "b": "color-q95-s2.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 16,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.8
+    },
+    {
+      "a": "color-q95-s2.jpg",
+      "b": "color-q95-s2.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 16,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.9
+    },
+    {
+      "a": "color-q95-s2.jpg",
+      "b": "color-q95-s2.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 16,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 1.0
+    },
+    {
+      "a": "gray.jpg",
+      "b": "gray.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 2,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.0
+    },
+    {
+      "a": "gray.jpg",
+      "b": "gray.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 2,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.1
+    },
+    {
+      "a": "gray.jpg",
+      "b": "gray.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 2,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.2
+    },
+    {
+      "a": "gray.jpg",
+      "b": "gray.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 2,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.3
+    },
+    {
+      "a": "gray.jpg",
+      "b": "gray.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 2,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.4
+    },
+    {
+      "a": "gray.jpg",
+      "b": "gray.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 2,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.5
+    },
+    {
+      "a": "gray.jpg",
+      "b": "gray.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 2,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.6
+    },
+    {
+      "a": "gray.jpg",
+      "b": "gray.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 2,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.7
+    },
+    {
+      "a": "gray.jpg",
+      "b": "gray.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 2,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.8
+    },
+    {
+      "a": "gray.jpg",
+      "b": "gray.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 2,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.9
+    },
+    {
+      "a": "gray.jpg",
+      "b": "gray.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 2,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 1.0
+    },
+    {
+      "a": "orientation-1.jpg",
+      "b": "orientation-1.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.0
+    },
+    {
+      "a": "orientation-1.jpg",
+      "b": "orientation-1.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.1
+    },
+    {
+      "a": "orientation-1.jpg",
+      "b": "orientation-1.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.2
+    },
+    {
+      "a": "orientation-1.jpg",
+      "b": "orientation-1.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.3
+    },
+    {
+      "a": "orientation-1.jpg",
+      "b": "orientation-1.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.4
+    },
+    {
+      "a": "orientation-1.jpg",
+      "b": "orientation-1.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.5
+    },
+    {
+      "a": "orientation-1.jpg",
+      "b": "orientation-1.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.6
+    },
+    {
+      "a": "orientation-1.jpg",
+      "b": "orientation-1.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.7
+    },
+    {
+      "a": "orientation-1.jpg",
+      "b": "orientation-1.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.8
+    },
+    {
+      "a": "orientation-1.jpg",
+      "b": "orientation-1.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.9
+    },
+    {
+      "a": "orientation-1.jpg",
+      "b": "orientation-1.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 1.0
+    },
+    {
+      "a": "orientation-2.jpg",
+      "b": "orientation-2.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.0
+    },
+    {
+      "a": "orientation-2.jpg",
+      "b": "orientation-2.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.1
+    },
+    {
+      "a": "orientation-2.jpg",
+      "b": "orientation-2.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.2
+    },
+    {
+      "a": "orientation-2.jpg",
+      "b": "orientation-2.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.3
+    },
+    {
+      "a": "orientation-2.jpg",
+      "b": "orientation-2.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.4
+    },
+    {
+      "a": "orientation-2.jpg",
+      "b": "orientation-2.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.5
+    },
+    {
+      "a": "orientation-2.jpg",
+      "b": "orientation-2.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.6
+    },
+    {
+      "a": "orientation-2.jpg",
+      "b": "orientation-2.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.7
+    },
+    {
+      "a": "orientation-2.jpg",
+      "b": "orientation-2.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.8
+    },
+    {
+      "a": "orientation-2.jpg",
+      "b": "orientation-2.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.9
+    },
+    {
+      "a": "orientation-2.jpg",
+      "b": "orientation-2.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 1.0
+    },
+    {
+      "a": "orientation-3.jpg",
+      "b": "orientation-3.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.0
+    },
+    {
+      "a": "orientation-3.jpg",
+      "b": "orientation-3.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.1
+    },
+    {
+      "a": "orientation-3.jpg",
+      "b": "orientation-3.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.2
+    },
+    {
+      "a": "orientation-3.jpg",
+      "b": "orientation-3.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.3
+    },
+    {
+      "a": "orientation-3.jpg",
+      "b": "orientation-3.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.4
+    },
+    {
+      "a": "orientation-3.jpg",
+      "b": "orientation-3.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.5
+    },
+    {
+      "a": "orientation-3.jpg",
+      "b": "orientation-3.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.6
+    },
+    {
+      "a": "orientation-3.jpg",
+      "b": "orientation-3.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.7
+    },
+    {
+      "a": "orientation-3.jpg",
+      "b": "orientation-3.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.8
+    },
+    {
+      "a": "orientation-3.jpg",
+      "b": "orientation-3.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.9
+    },
+    {
+      "a": "orientation-3.jpg",
+      "b": "orientation-3.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 1.0
+    },
+    {
+      "a": "orientation-4.jpg",
+      "b": "orientation-4.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.0
+    },
+    {
+      "a": "orientation-4.jpg",
+      "b": "orientation-4.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.1
+    },
+    {
+      "a": "orientation-4.jpg",
+      "b": "orientation-4.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.2
+    },
+    {
+      "a": "orientation-4.jpg",
+      "b": "orientation-4.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.3
+    },
+    {
+      "a": "orientation-4.jpg",
+      "b": "orientation-4.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.4
+    },
+    {
+      "a": "orientation-4.jpg",
+      "b": "orientation-4.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.5
+    },
+    {
+      "a": "orientation-4.jpg",
+      "b": "orientation-4.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.6
+    },
+    {
+      "a": "orientation-4.jpg",
+      "b": "orientation-4.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.7
+    },
+    {
+      "a": "orientation-4.jpg",
+      "b": "orientation-4.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.8
+    },
+    {
+      "a": "orientation-4.jpg",
+      "b": "orientation-4.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.9
+    },
+    {
+      "a": "orientation-4.jpg",
+      "b": "orientation-4.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 1.0
+    },
+    {
+      "a": "orientation-5.jpg",
+      "b": "orientation-5.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.0
+    },
+    {
+      "a": "orientation-5.jpg",
+      "b": "orientation-5.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.1
+    },
+    {
+      "a": "orientation-5.jpg",
+      "b": "orientation-5.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.2
+    },
+    {
+      "a": "orientation-5.jpg",
+      "b": "orientation-5.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.3
+    },
+    {
+      "a": "orientation-5.jpg",
+      "b": "orientation-5.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.4
+    },
+    {
+      "a": "orientation-5.jpg",
+      "b": "orientation-5.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.5
+    },
+    {
+      "a": "orientation-5.jpg",
+      "b": "orientation-5.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.6
+    },
+    {
+      "a": "orientation-5.jpg",
+      "b": "orientation-5.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.7
+    },
+    {
+      "a": "orientation-5.jpg",
+      "b": "orientation-5.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.8
+    },
+    {
+      "a": "orientation-5.jpg",
+      "b": "orientation-5.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.9
+    },
+    {
+      "a": "orientation-5.jpg",
+      "b": "orientation-5.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 1.0
+    },
+    {
+      "a": "orientation-6.jpg",
+      "b": "orientation-6.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.0
+    },
+    {
+      "a": "orientation-6.jpg",
+      "b": "orientation-6.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.1
+    },
+    {
+      "a": "orientation-6.jpg",
+      "b": "orientation-6.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.2
+    },
+    {
+      "a": "orientation-6.jpg",
+      "b": "orientation-6.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.3
+    },
+    {
+      "a": "orientation-6.jpg",
+      "b": "orientation-6.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.4
+    },
+    {
+      "a": "orientation-6.jpg",
+      "b": "orientation-6.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.5
+    },
+    {
+      "a": "orientation-6.jpg",
+      "b": "orientation-6.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.6
+    },
+    {
+      "a": "orientation-6.jpg",
+      "b": "orientation-6.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.7
+    },
+    {
+      "a": "orientation-6.jpg",
+      "b": "orientation-6.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.8
+    },
+    {
+      "a": "orientation-6.jpg",
+      "b": "orientation-6.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.9
+    },
+    {
+      "a": "orientation-6.jpg",
+      "b": "orientation-6.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 1.0
+    },
+    {
+      "a": "orientation-7.jpg",
+      "b": "orientation-7.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.0
+    },
+    {
+      "a": "orientation-7.jpg",
+      "b": "orientation-7.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.1
+    },
+    {
+      "a": "orientation-7.jpg",
+      "b": "orientation-7.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.2
+    },
+    {
+      "a": "orientation-7.jpg",
+      "b": "orientation-7.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.3
+    },
+    {
+      "a": "orientation-7.jpg",
+      "b": "orientation-7.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.4
+    },
+    {
+      "a": "orientation-7.jpg",
+      "b": "orientation-7.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.5
+    },
+    {
+      "a": "orientation-7.jpg",
+      "b": "orientation-7.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.6
+    },
+    {
+      "a": "orientation-7.jpg",
+      "b": "orientation-7.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.7
+    },
+    {
+      "a": "orientation-7.jpg",
+      "b": "orientation-7.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.8
+    },
+    {
+      "a": "orientation-7.jpg",
+      "b": "orientation-7.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.9
+    },
+    {
+      "a": "orientation-7.jpg",
+      "b": "orientation-7.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 1.0
+    },
+    {
+      "a": "orientation-8.jpg",
+      "b": "orientation-8.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.0
+    },
+    {
+      "a": "orientation-8.jpg",
+      "b": "orientation-8.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.1
+    },
+    {
+      "a": "orientation-8.jpg",
+      "b": "orientation-8.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.2
+    },
+    {
+      "a": "orientation-8.jpg",
+      "b": "orientation-8.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.3
+    },
+    {
+      "a": "orientation-8.jpg",
+      "b": "orientation-8.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.4
+    },
+    {
+      "a": "orientation-8.jpg",
+      "b": "orientation-8.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.5
+    },
+    {
+      "a": "orientation-8.jpg",
+      "b": "orientation-8.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.6
+    },
+    {
+      "a": "orientation-8.jpg",
+      "b": "orientation-8.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.7
+    },
+    {
+      "a": "orientation-8.jpg",
+      "b": "orientation-8.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.8
+    },
+    {
+      "a": "orientation-8.jpg",
+      "b": "orientation-8.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.9
+    },
+    {
+      "a": "orientation-8.jpg",
+      "b": "orientation-8.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 1.0
+    },
+    {
+      "a": "progressive.jpg",
+      "b": "progressive.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 16,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.0
+    },
+    {
+      "a": "progressive.jpg",
+      "b": "progressive.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 16,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.1
+    },
+    {
+      "a": "progressive.jpg",
+      "b": "progressive.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 16,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.2
+    },
+    {
+      "a": "progressive.jpg",
+      "b": "progressive.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 16,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.3
+    },
+    {
+      "a": "progressive.jpg",
+      "b": "progressive.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 16,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.4
+    },
+    {
+      "a": "progressive.jpg",
+      "b": "progressive.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 16,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.5
+    },
+    {
+      "a": "progressive.jpg",
+      "b": "progressive.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 16,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.6
+    },
+    {
+      "a": "progressive.jpg",
+      "b": "progressive.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 16,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.7
+    },
+    {
+      "a": "progressive.jpg",
+      "b": "progressive.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 16,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.8
+    },
+    {
+      "a": "progressive.jpg",
+      "b": "progressive.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 16,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.9
+    },
+    {
+      "a": "progressive.jpg",
+      "b": "progressive.jpg",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 16,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 1.0
+    },
+    {
+      "a": "cmyk.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 14,
+      "differentOutputPixels": 14,
+      "nativeCount": 186,
+      "sourceCount": 194,
+      "threshold": 0.0
+    },
+    {
+      "a": "cmyk.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 1,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.1
+    },
+    {
+      "a": "cmyk.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 1,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.2
+    },
+    {
+      "a": "cmyk.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 1,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.3
+    },
+    {
+      "a": "cmyk.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 1,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.4
+    },
+    {
+      "a": "cmyk.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 1,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.5
+    },
+    {
+      "a": "cmyk.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 1,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.6
+    },
+    {
+      "a": "cmyk.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 1,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.7
+    },
+    {
+      "a": "cmyk.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 1,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.8
+    },
+    {
+      "a": "cmyk.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 1,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.9
+    },
+    {
+      "a": "cmyk.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 1,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 1.0
+    },
+    {
+      "a": "color-q35-s0.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 4,
+      "nativeCount": 69,
+      "sourceCount": 69,
+      "threshold": 0.1
+    },
+    {
+      "a": "color-q35-s0.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 7,
+      "nativeCount": 11,
+      "sourceCount": 11,
+      "threshold": 0.2
+    },
+    {
+      "a": "color-q35-s0.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 8,
+      "nativeCount": 1,
+      "sourceCount": 1,
+      "threshold": 0.3
+    },
+    {
+      "a": "color-q35-s0.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 8,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.4
+    },
+    {
+      "a": "color-q35-s0.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 8,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.5
+    },
+    {
+      "a": "color-q35-s0.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 8,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.6
+    },
+    {
+      "a": "color-q35-s0.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 8,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.7
+    },
+    {
+      "a": "color-q35-s0.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 8,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.8
+    },
+    {
+      "a": "color-q35-s0.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 8,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.9
+    },
+    {
+      "a": "color-q35-s0.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 8,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 1.0
+    },
+    {
+      "a": "color-q35-s1.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 18,
+      "differentOutputPixels": 25,
+      "nativeCount": 100,
+      "sourceCount": 102,
+      "threshold": 0.1
+    },
+    {
+      "a": "color-q35-s1.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 11,
+      "differentOutputPixels": 21,
+      "nativeCount": 19,
+      "sourceCount": 22,
+      "threshold": 0.2
+    },
+    {
+      "a": "color-q35-s1.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 1,
+      "differentOutputPixels": 13,
+      "nativeCount": 5,
+      "sourceCount": 4,
+      "threshold": 0.3
+    },
+    {
+      "a": "color-q35-s1.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.4
+    },
+    {
+      "a": "color-q35-s1.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.5
+    },
+    {
+      "a": "color-q35-s1.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.6
+    },
+    {
+      "a": "color-q35-s1.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.7
+    },
+    {
+      "a": "color-q35-s1.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.8
+    },
+    {
+      "a": "color-q35-s1.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.9
+    },
+    {
+      "a": "color-q35-s1.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 1.0
+    },
+    {
+      "a": "color-q35-s2.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 22,
+      "differentOutputPixels": 25,
+      "nativeCount": 121,
+      "sourceCount": 121,
+      "threshold": 0.1
+    },
+    {
+      "a": "color-q35-s2.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 12,
+      "differentOutputPixels": 25,
+      "nativeCount": 33,
+      "sourceCount": 31,
+      "threshold": 0.2
+    },
+    {
+      "a": "color-q35-s2.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 2,
+      "differentOutputPixels": 19,
+      "nativeCount": 4,
+      "sourceCount": 4,
+      "threshold": 0.3
+    },
+    {
+      "a": "color-q35-s2.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 17,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.4
+    },
+    {
+      "a": "color-q35-s2.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 17,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.5
+    },
+    {
+      "a": "color-q35-s2.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 17,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.6
+    },
+    {
+      "a": "color-q35-s2.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 17,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.7
+    },
+    {
+      "a": "color-q35-s2.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 17,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.8
+    },
+    {
+      "a": "color-q35-s2.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 17,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.9
+    },
+    {
+      "a": "color-q35-s2.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 17,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 1.0
+    },
+    {
+      "a": "color-q95-s0.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 1,
+      "differentOutputPixels": 1,
+      "nativeCount": 220,
+      "sourceCount": 221,
+      "threshold": 0.0
+    },
+    {
+      "a": "color-q95-s0.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.1
+    },
+    {
+      "a": "color-q95-s0.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.2
+    },
+    {
+      "a": "color-q95-s0.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.3
+    },
+    {
+      "a": "color-q95-s0.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.4
+    },
+    {
+      "a": "color-q95-s0.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.5
+    },
+    {
+      "a": "color-q95-s0.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.6
+    },
+    {
+      "a": "color-q95-s0.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.7
+    },
+    {
+      "a": "color-q95-s0.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.8
+    },
+    {
+      "a": "color-q95-s0.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.9
+    },
+    {
+      "a": "color-q95-s0.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 1.0
+    },
+    {
+      "a": "color-q95-s1.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 1,
+      "differentOutputPixels": 1,
+      "nativeCount": 221,
+      "sourceCount": 220,
+      "threshold": 0.0
+    },
+    {
+      "a": "color-q95-s1.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 12,
+      "differentOutputPixels": 23,
+      "nativeCount": 54,
+      "sourceCount": 44,
+      "threshold": 0.1
+    },
+    {
+      "a": "color-q95-s1.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 12,
+      "differentOutputPixels": 26,
+      "nativeCount": 5,
+      "sourceCount": 13,
+      "threshold": 0.2
+    },
+    {
+      "a": "color-q95-s1.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 14,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.3
+    },
+    {
+      "a": "color-q95-s1.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 14,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.4
+    },
+    {
+      "a": "color-q95-s1.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 14,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.5
+    },
+    {
+      "a": "color-q95-s1.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 14,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.6
+    },
+    {
+      "a": "color-q95-s1.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 14,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.7
+    },
+    {
+      "a": "color-q95-s1.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 14,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.8
+    },
+    {
+      "a": "color-q95-s1.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 14,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.9
+    },
+    {
+      "a": "color-q95-s1.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 14,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 1.0
+    },
+    {
+      "a": "color-q95-s2.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 23,
+      "differentOutputPixels": 31,
+      "nativeCount": 73,
+      "sourceCount": 60,
+      "threshold": 0.1
+    },
+    {
+      "a": "color-q95-s2.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 12,
+      "differentOutputPixels": 26,
+      "nativeCount": 10,
+      "sourceCount": 14,
+      "threshold": 0.2
+    },
+    {
+      "a": "color-q95-s2.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 2,
+      "differentOutputPixels": 18,
+      "nativeCount": 0,
+      "sourceCount": 2,
+      "threshold": 0.3
+    },
+    {
+      "a": "color-q95-s2.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 16,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.4
+    },
+    {
+      "a": "color-q95-s2.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 16,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.5
+    },
+    {
+      "a": "color-q95-s2.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 16,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.6
+    },
+    {
+      "a": "color-q95-s2.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 16,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.7
+    },
+    {
+      "a": "color-q95-s2.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 16,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.8
+    },
+    {
+      "a": "color-q95-s2.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 16,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.9
+    },
+    {
+      "a": "color-q95-s2.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 16,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 1.0
+    },
+    {
+      "a": "gray.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 1,
+      "differentOutputPixels": 1,
+      "nativeCount": 202,
+      "sourceCount": 203,
+      "threshold": 0.1
+    },
+    {
+      "a": "gray.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 1,
+      "nativeCount": 149,
+      "sourceCount": 149,
+      "threshold": 0.2
+    },
+    {
+      "a": "gray.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 2,
+      "nativeCount": 73,
+      "sourceCount": 73,
+      "threshold": 0.3
+    },
+    {
+      "a": "gray.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 2,
+      "nativeCount": 32,
+      "sourceCount": 32,
+      "threshold": 0.4
+    },
+    {
+      "a": "gray.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 2,
+      "nativeCount": 26,
+      "sourceCount": 26,
+      "threshold": 0.5
+    },
+    {
+      "a": "gray.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 2,
+      "nativeCount": 20,
+      "sourceCount": 20,
+      "threshold": 0.6
+    },
+    {
+      "a": "gray.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 2,
+      "nativeCount": 18,
+      "sourceCount": 18,
+      "threshold": 0.7
+    },
+    {
+      "a": "gray.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 2,
+      "nativeCount": 2,
+      "sourceCount": 2,
+      "threshold": 0.8
+    },
+    {
+      "a": "gray.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 2,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.9
+    },
+    {
+      "a": "gray.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 2,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 1.0
+    },
+    {
+      "a": "orientation-1.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 1,
+      "differentOutputPixels": 1,
+      "nativeCount": 220,
+      "sourceCount": 221,
+      "threshold": 0.0
+    },
+    {
+      "a": "orientation-1.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.1
+    },
+    {
+      "a": "orientation-1.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.2
+    },
+    {
+      "a": "orientation-1.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.3
+    },
+    {
+      "a": "orientation-1.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.4
+    },
+    {
+      "a": "orientation-1.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.5
+    },
+    {
+      "a": "orientation-1.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.6
+    },
+    {
+      "a": "orientation-1.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.7
+    },
+    {
+      "a": "orientation-1.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.8
+    },
+    {
+      "a": "orientation-1.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.9
+    },
+    {
+      "a": "orientation-1.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 1.0
+    },
+    {
+      "a": "orientation-2.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 1,
+      "differentOutputPixels": 3,
+      "nativeCount": 207,
+      "sourceCount": 208,
+      "threshold": 0.1
+    },
+    {
+      "a": "orientation-2.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 2,
+      "nativeCount": 192,
+      "sourceCount": 192,
+      "threshold": 0.2
+    },
+    {
+      "a": "orientation-2.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 5,
+      "nativeCount": 137,
+      "sourceCount": 137,
+      "threshold": 0.3
+    },
+    {
+      "a": "orientation-2.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 8,
+      "nativeCount": 66,
+      "sourceCount": 66,
+      "threshold": 0.4
+    },
+    {
+      "a": "orientation-2.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 11,
+      "nativeCount": 32,
+      "sourceCount": 32,
+      "threshold": 0.5
+    },
+    {
+      "a": "orientation-2.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 1,
+      "differentOutputPixels": 12,
+      "nativeCount": 6,
+      "sourceCount": 7,
+      "threshold": 0.6
+    },
+    {
+      "a": "orientation-2.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 2,
+      "sourceCount": 2,
+      "threshold": 0.7
+    },
+    {
+      "a": "orientation-2.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.8
+    },
+    {
+      "a": "orientation-2.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.9
+    },
+    {
+      "a": "orientation-2.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 1.0
+    },
+    {
+      "a": "orientation-3.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 6,
+      "nativeCount": 173,
+      "sourceCount": 173,
+      "threshold": 0.2
+    },
+    {
+      "a": "orientation-3.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 8,
+      "nativeCount": 102,
+      "sourceCount": 102,
+      "threshold": 0.3
+    },
+    {
+      "a": "orientation-3.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 9,
+      "nativeCount": 55,
+      "sourceCount": 55,
+      "threshold": 0.4
+    },
+    {
+      "a": "orientation-3.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 1,
+      "differentOutputPixels": 13,
+      "nativeCount": 9,
+      "sourceCount": 8,
+      "threshold": 0.5
+    },
+    {
+      "a": "orientation-3.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.6
+    },
+    {
+      "a": "orientation-3.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.7
+    },
+    {
+      "a": "orientation-3.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.8
+    },
+    {
+      "a": "orientation-3.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.9
+    },
+    {
+      "a": "orientation-3.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 1.0
+    },
+    {
+      "a": "orientation-4.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 1,
+      "nativeCount": 139,
+      "sourceCount": 139,
+      "threshold": 0.2
+    },
+    {
+      "a": "orientation-4.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 2,
+      "differentOutputPixels": 6,
+      "nativeCount": 100,
+      "sourceCount": 100,
+      "threshold": 0.3
+    },
+    {
+      "a": "orientation-4.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 5,
+      "nativeCount": 62,
+      "sourceCount": 62,
+      "threshold": 0.4
+    },
+    {
+      "a": "orientation-4.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 6,
+      "differentOutputPixels": 17,
+      "nativeCount": 28,
+      "sourceCount": 30,
+      "threshold": 0.5
+    },
+    {
+      "a": "orientation-4.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 1,
+      "differentOutputPixels": 13,
+      "nativeCount": 10,
+      "sourceCount": 11,
+      "threshold": 0.6
+    },
+    {
+      "a": "orientation-4.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 4,
+      "sourceCount": 4,
+      "threshold": 0.7
+    },
+    {
+      "a": "orientation-4.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 2,
+      "sourceCount": 2,
+      "threshold": 0.8
+    },
+    {
+      "a": "orientation-4.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.9
+    },
+    {
+      "a": "orientation-4.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 12,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 1.0
+    },
+    {
+      "a": "progressive.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 25,
+      "differentOutputPixels": 32,
+      "nativeCount": 72,
+      "sourceCount": 57,
+      "threshold": 0.1
+    },
+    {
+      "a": "progressive.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 9,
+      "differentOutputPixels": 24,
+      "nativeCount": 9,
+      "sourceCount": 12,
+      "threshold": 0.2
+    },
+    {
+      "a": "progressive.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 3,
+      "differentOutputPixels": 19,
+      "nativeCount": 0,
+      "sourceCount": 3,
+      "threshold": 0.3
+    },
+    {
+      "a": "progressive.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 16,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.4
+    },
+    {
+      "a": "progressive.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 16,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.5
+    },
+    {
+      "a": "progressive.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 16,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.6
+    },
+    {
+      "a": "progressive.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 16,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.7
+    },
+    {
+      "a": "progressive.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 16,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.8
+    },
+    {
+      "a": "progressive.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 16,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 0.9
+    },
+    {
+      "a": "progressive.jpg",
+      "b": "rgb.png",
+      "differentClassificationPixels": 0,
+      "differentOutputPixels": 16,
+      "nativeCount": 0,
+      "sourceCount": 0,
+      "threshold": 1.0
+    }
+  ],
+  "pixelmatchRawExact": 702,
+  "pixelmatchSourcePairsExact": 605,
+  "universalJPEGParity": false
+}

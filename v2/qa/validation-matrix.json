@@ -1,0 +1,334 @@
+[
+  {
+    "name": "v1-install",
+    "command": [
+      "npm",
+      "ci",
+      "--ignore-scripts",
+      "--no-audit",
+      "--no-fund",
+      "--prefix",
+      "/Users/almat/Desktop/code/Tezbar APP/rust-extension-ports/image-diff-checker/v2/.qa/v1"
+    ],
+    "exitCode": 0,
+    "logSha256": "09c8798fab7526730e435615766820b5ae643b304f86ed25e0ae0d07621b4dee"
+  },
+  {
+    "name": "renderer-install",
+    "command": [
+      "npm",
+      "ci",
+      "--ignore-scripts",
+      "--no-audit",
+      "--no-fund",
+      "--prefix",
+      "/Users/almat/Desktop/code/Tezbar APP/rust-extension-ports/image-diff-checker/v2/.qa/renderer"
+    ],
+    "exitCode": 0,
+    "logSha256": "abfe0a222154a6956134b4efb606b8270678277ec28563d00802f07be8da2f60"
+  },
+  {
+    "name": "v1-tests",
+    "command": [
+      "npm",
+      "--prefix",
+      "/Users/almat/Desktop/code/Tezbar APP/rust-extension-ports/image-diff-checker/v2/.qa/v1",
+      "test"
+    ],
+    "exitCode": 0,
+    "logSha256": "678319afd102baed31bef8aec0dd33aee53d000534488272b20fc2f3d49de999"
+  },
+  {
+    "name": "v1-typecheck",
+    "command": [
+      "npm",
+      "--prefix",
+      "/Users/almat/Desktop/code/Tezbar APP/rust-extension-ports/image-diff-checker/v2/.qa/v1",
+      "run",
+      "typecheck"
+    ],
+    "exitCode": 2,
+    "logSha256": "6b37ceb9125d44c12b9ee1cc54dfb4d67229eea8032fad448a82f51ef38d7579"
+  },
+  {
+    "name": "host-patch",
+    "command": [
+      "/Library/Developer/CommandLineTools/usr/bin/python3",
+      "-B",
+      "/Users/almat/Desktop/code/Tezbar APP/rust-extension-ports/image-diff-checker/v2/qa/host-patch.py"
+    ],
+    "exitCode": 0,
+    "logSha256": "59305fbcbbae120b19e95e7077df0a4038ab1bdf7de13352dfab75b4e5e02f4c"
+  },
+  {
+    "name": "host-contract",
+    "command": [
+      "/Library/Developer/CommandLineTools/usr/bin/python3",
+      "-B",
+      "/Users/almat/Desktop/code/Tezbar APP/rust-extension-ports/image-diff-checker/v2/qa/host-contract.py"
+    ],
+    "exitCode": 0,
+    "logSha256": "d259db32c564f1b6cbf035c7ab8111e72cb9a0cdd68185d5fa9df29b2231de18"
+  },
+  {
+    "name": "producers",
+    "command": [
+      "/Library/Developer/CommandLineTools/usr/bin/python3",
+      "-B",
+      "/Users/almat/Desktop/code/Tezbar APP/rust-extension-ports/image-diff-checker/v2/qa/producers.py"
+    ],
+    "exitCode": 0,
+    "logSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "name": "jpeg-investigation",
+    "command": [
+      "/Library/Developer/CommandLineTools/usr/bin/python3",
+      "-B",
+      "/Users/almat/Desktop/code/Tezbar APP/rust-extension-ports/image-diff-checker/v2/qa/jpeg-investigation.py"
+    ],
+    "exitCode": 0,
+    "logSha256": "6730cd3f27c6e648080e73ad4aa5529791b695579fd059a5ea8f4ab9c1d01c14"
+  },
+  {
+    "name": "source-oracle",
+    "command": [
+      "node",
+      "/Users/almat/Desktop/code/Tezbar APP/rust-extension-ports/image-diff-checker/v2/qa/source-oracle.cjs"
+    ],
+    "exitCode": 0,
+    "logSha256": "9d63eb8f56eca19263897c54c9b76e69577810a7026968801e133c3ef4c60e35"
+  },
+  {
+    "name": "save-boundaries",
+    "command": [
+      "/Library/Developer/CommandLineTools/usr/bin/python3",
+      "-B",
+      "/Users/almat/Desktop/code/Tezbar APP/rust-extension-ports/image-diff-checker/v2/qa/save-boundaries.py"
+    ],
+    "exitCode": 0,
+    "logSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "name": "schema",
+    "command": [
+      "node",
+      "/Users/almat/Desktop/code/Tezbar APP/rust-extension-ports/image-diff-checker/v2/qa/schema.cjs"
+    ],
+    "exitCode": 0,
+    "logSha256": "cdd9f1084937ab17bc0ecc9f7b0d7aa184ea73820cbd5132059fd7ac7c0b2fad"
+  },
+  {
+    "name": "stable-format",
+    "command": [
+      "cargo",
+      "+stable",
+      "fmt",
+      "--manifest-path",
+      "/Users/almat/Desktop/code/Tezbar APP/rust-extension-ports/image-diff-checker/v2/Cargo.toml"
+    ],
+    "exitCode": 0,
+    "logSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "name": "stable-fmt",
+    "command": [
+      "cargo",
+      "+stable",
+      "fmt",
+      "--check",
+      "--manifest-path",
+      "/Users/almat/Desktop/code/Tezbar APP/rust-extension-ports/image-diff-checker/v2/Cargo.toml"
+    ],
+    "exitCode": 0,
+    "logSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "name": "stable-tests",
+    "command": [
+      "cargo",
+      "+stable",
+      "test",
+      "--locked",
+      "--all-targets",
+      "--manifest-path",
+      "/Users/almat/Desktop/code/Tezbar APP/rust-extension-ports/image-diff-checker/v2/Cargo.toml"
+    ],
+    "exitCode": 0,
+    "logSha256": "f8b2b208177e5c517ae2b426e534629834e885a4d8c7a7ec67e3417ea791dffb"
+  },
+  {
+    "name": "stable-clippy",
+    "command": [
+      "cargo",
+      "+stable",
+      "clippy",
+      "--locked",
+      "--all-targets",
+      "--manifest-path",
+      "/Users/almat/Desktop/code/Tezbar APP/rust-extension-ports/image-diff-checker/v2/Cargo.toml",
+      "--",
+      "-D",
+      "warnings"
+    ],
+    "exitCode": 0,
+    "logSha256": "4fc6e7d231dcb82adb13a0bb4c268eaa82072816576ec5b549e6ac2c60753c1b"
+  },
+  {
+    "name": "1.85.0-format",
+    "command": [
+      "cargo",
+      "+1.85.0",
+      "fmt",
+      "--manifest-path",
+      "/Users/almat/Desktop/code/Tezbar APP/rust-extension-ports/image-diff-checker/v2/Cargo.toml"
+    ],
+    "exitCode": 0,
+    "logSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "name": "1.85.0-fmt",
+    "command": [
+      "cargo",
+      "+1.85.0",
+      "fmt",
+      "--check",
+      "--manifest-path",
+      "/Users/almat/Desktop/code/Tezbar APP/rust-extension-ports/image-diff-checker/v2/Cargo.toml"
+    ],
+    "exitCode": 0,
+    "logSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "name": "1.85.0-tests",
+    "command": [
+      "cargo",
+      "+1.85.0",
+      "test",
+      "--locked",
+      "--all-targets",
+      "--manifest-path",
+      "/Users/almat/Desktop/code/Tezbar APP/rust-extension-ports/image-diff-checker/v2/Cargo.toml"
+    ],
+    "exitCode": 0,
+    "logSha256": "ff2b122e2ebe4a14227019c906d475151e1d9e1630ba2784660f94c6a1d52fe5"
+  },
+  {
+    "name": "1.85.0-clippy",
+    "command": [
+      "cargo",
+      "+1.85.0",
+      "clippy",
+      "--locked",
+      "--all-targets",
+      "--manifest-path",
+      "/Users/almat/Desktop/code/Tezbar APP/rust-extension-ports/image-diff-checker/v2/Cargo.toml",
+      "--",
+      "-D",
+      "warnings"
+    ],
+    "exitCode": 0,
+    "logSha256": "eae564e3a46296511b2a949d486a9e67a1ea29c7e296bb38e786567742ba6583"
+  },
+  {
+    "name": "windows-check",
+    "command": [
+      "cargo",
+      "+stable",
+      "check",
+      "--locked",
+      "--all-targets",
+      "--target",
+      "x86_64-pc-windows-gnu",
+      "--manifest-path",
+      "/Users/almat/Desktop/code/Tezbar APP/rust-extension-ports/image-diff-checker/v2/Cargo.toml"
+    ],
+    "exitCode": 0,
+    "logSha256": "d51783be5e52473b3ff45ef27d95d8e09c2c16aaa17ec03eafc423691be25aad"
+  },
+  {
+    "name": "windows-link",
+    "command": [
+      "cargo",
+      "+stable",
+      "build",
+      "--release",
+      "--locked",
+      "--target",
+      "x86_64-pc-windows-gnu",
+      "--manifest-path",
+      "/Users/almat/Desktop/code/Tezbar APP/rust-extension-ports/image-diff-checker/v2/Cargo.toml"
+    ],
+    "exitCode": 101,
+    "logSha256": "51f9cd6bbef0fa1fff4bcfc295da179f1494474ecc9fc0c4b56d7e61592ddf53"
+  },
+  {
+    "name": "fresh-build",
+    "command": [
+      "/Library/Developer/CommandLineTools/usr/bin/python3",
+      "-B",
+      "/Users/almat/Desktop/code/Tezbar APP/rust-extension-ports/image-diff-checker/v2/qa/fresh-build.py"
+    ],
+    "exitCode": 0,
+    "logSha256": "43ea58a2b6622e73cb79112d130c0d85f748d4e904cdf1fb3a3d5b54e4f9bbfb"
+  },
+  {
+    "name": "notices",
+    "command": [
+      "/Library/Developer/CommandLineTools/usr/bin/python3",
+      "-B",
+      "/Users/almat/Desktop/code/Tezbar APP/rust-extension-ports/image-diff-checker/v2/qa/notices.py"
+    ],
+    "exitCode": 0,
+    "logSha256": "e66f0d1e21d41da04e285aa08d251cb2e55baf029a525caf279854eb73b138c5"
+  },
+  {
+    "name": "package",
+    "command": [
+      "/Library/Developer/CommandLineTools/usr/bin/python3",
+      "-B",
+      "/Users/almat/Desktop/code/Tezbar APP/rust-extension-ports/image-diff-checker/v2/qa/package.py",
+      "/Users/almat/Desktop/code/Tezbar APP/rust-extension-ports/image-diff-checker/v2/.qa/fresh/release-b_1_flec/target/release/image-diff-checker"
+    ],
+    "exitCode": 0,
+    "logSha256": "9ee38dfc4b7dc0919da9f4d94f7bd0959778b4107d66d08ae477c6a85055f1a3"
+  },
+  {
+    "name": "extracted--protocol-info",
+    "command": [
+      "/Users/almat/Desktop/code/Tezbar APP/rust-extension-ports/image-diff-checker/v2/.qa/extracted/arm64-8os2t5uu/bin/image-diff-checker",
+      "--protocol-info"
+    ],
+    "exitCode": 0,
+    "logSha256": "4df341d62f795155f5d3f82b17c349acad1b9d8e0c9647bbf7ac90eda8f15353"
+  },
+  {
+    "name": "extracted--self-test",
+    "command": [
+      "/Users/almat/Desktop/code/Tezbar APP/rust-extension-ports/image-diff-checker/v2/.qa/extracted/arm64-8os2t5uu/bin/image-diff-checker",
+      "--self-test"
+    ],
+    "exitCode": 0,
+    "logSha256": "4df341d62f795155f5d3f82b17c349acad1b9d8e0c9647bbf7ac90eda8f15353"
+  },
+  {
+    "name": "extracted-process",
+    "command": [
+      "/Library/Developer/CommandLineTools/usr/bin/python3",
+      "-B",
+      "/Users/almat/Desktop/code/Tezbar APP/rust-extension-ports/image-diff-checker/v2/qa/process.py",
+      "/Users/almat/Desktop/code/Tezbar APP/rust-extension-ports/image-diff-checker/v2/.qa/extracted/arm64-8os2t5uu/bin/image-diff-checker"
+    ],
+    "exitCode": 0,
+    "logSha256": "becfdbe5b90bcfb0d02a6b0415f95e242ec6f68963a5c7882283cad5a7e42667"
+  },
+  {
+    "name": "renderer",
+    "command": [
+      "node",
+      "/Users/almat/Desktop/code/Tezbar APP/rust-extension-ports/image-diff-checker/v2/qa/renderer.cjs"
+    ],
+    "exitCode": 0,
+    "logSha256": "fc37293a9e7c7bc64eafcc5d19efc9d655a5d11595a2a4ba8e9c85e2af4fba23"
+  }
+]

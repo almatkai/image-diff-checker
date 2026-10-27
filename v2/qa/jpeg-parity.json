@@ -1,0 +1,4068 @@
+{
+  "decode": [
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "adam7.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "alpha.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "animated.gif"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "changed.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "cmyk.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "color-q35-s0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "color-q35-s1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "color-q35-s2.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "color-q95-s0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "color-q95-s1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "color-q95-s2.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        9,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "edge-0.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        9,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "edge-1.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "gray-alpha.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "gray-alpha16.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "gray.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "gray1.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "gray16.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "gray8.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-17x13-q10-s0-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-17x13-q10-s0-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-17x13-q10-s1-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-17x13-q10-s1-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-17x13-q10-s2-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-17x13-q10-s2-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-17x13-q100-s0-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-17x13-q100-s0-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-17x13-q100-s1-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-17x13-q100-s1-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-17x13-q100-s2-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-17x13-q100-s2-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-17x13-q73-s0-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-17x13-q73-s0-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-17x13-q73-s1-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-17x13-q73-s1-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-17x13-q73-s2-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-17x13-q73-s2-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-17x13.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-1x1-q10-s0-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-1x1-q10-s0-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-1x1-q10-s1-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-1x1-q10-s1-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-1x1-q10-s2-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-1x1-q10-s2-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-1x1-q100-s0-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-1x1-q100-s0-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-1x1-q100-s1-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-1x1-q100-s1-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-1x1-q100-s2-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-1x1-q100-s2-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-1x1-q73-s0-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-1x1-q73-s0-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-1x1-q73-s1-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-1x1-q73-s1-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-1x1-q73-s2-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-1x1-q73-s2-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-1x1.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-33x19-CMYK-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-33x19-CMYK-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-33x19-L-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-33x19-L-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-33x19-YCCK-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-33x19-YCCK-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-33x19-exif1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-33x19-exif2.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-33x19-exif3.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-33x19-exif4.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        19,
+        33
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-33x19-exif5.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        19,
+        33
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-33x19-exif6.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        19,
+        33
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-33x19-exif7.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        19,
+        33
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-33x19-exif8.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-33x19-q10-s0-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-33x19-q10-s0-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-33x19-q10-s1-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-33x19-q10-s1-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-33x19-q10-s2-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-33x19-q10-s2-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-33x19-q100-s0-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-33x19-q100-s0-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-33x19-q100-s1-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-33x19-q100-s1-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-33x19-q100-s2-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-33x19-q100-s2-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-33x19-q73-s0-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-33x19-q73-s0-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-33x19-q73-s1-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-33x19-q73-s1-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-33x19-q73-s2-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-33x19-q73-s2-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-33x19-restart1-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-33x19-restart1-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-33x19-restart3-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-33x19-restart3-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-33x19.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-7x9-q10-s0-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-7x9-q10-s0-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-7x9-q10-s1-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-7x9-q10-s1-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-7x9-q10-s2-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-7x9-q10-s2-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-7x9-q100-s0-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-7x9-q100-s0-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-7x9-q100-s1-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-7x9-q100-s1-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-7x9-q100-s2-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-7x9-q100-s2-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-7x9-q73-s0-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-7x9-q73-s0-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-7x9-q73-s1-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-7x9-q73-s1-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-7x9-q73-s2-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-7x9-q73-s2-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-blocks-7x9.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-17x13-q10-s0-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-17x13-q10-s0-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-17x13-q10-s1-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-17x13-q10-s1-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-17x13-q10-s2-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-17x13-q10-s2-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-17x13-q100-s0-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-17x13-q100-s0-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-17x13-q100-s1-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-17x13-q100-s1-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-17x13-q100-s2-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-17x13-q100-s2-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-17x13-q73-s0-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-17x13-q73-s0-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-17x13-q73-s1-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-17x13-q73-s1-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-17x13-q73-s2-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-17x13-q73-s2-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-17x13.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-1x1-q10-s0-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-1x1-q10-s0-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-1x1-q10-s1-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-1x1-q10-s1-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-1x1-q10-s2-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-1x1-q10-s2-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-1x1-q100-s0-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-1x1-q100-s0-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-1x1-q100-s1-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-1x1-q100-s1-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-1x1-q100-s2-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-1x1-q100-s2-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-1x1-q73-s0-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-1x1-q73-s0-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-1x1-q73-s1-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-1x1-q73-s1-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-1x1-q73-s2-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-1x1-q73-s2-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-1x1.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-33x19-CMYK-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-33x19-CMYK-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-33x19-L-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-33x19-L-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-33x19-YCCK-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-33x19-YCCK-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-33x19-exif1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-33x19-exif2.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-33x19-exif3.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-33x19-exif4.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        19,
+        33
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-33x19-exif5.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        19,
+        33
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-33x19-exif6.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        19,
+        33
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-33x19-exif7.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        19,
+        33
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-33x19-exif8.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-33x19-q10-s0-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-33x19-q10-s0-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-33x19-q10-s1-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-33x19-q10-s1-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-33x19-q10-s2-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-33x19-q10-s2-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-33x19-q100-s0-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-33x19-q100-s0-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-33x19-q100-s1-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-33x19-q100-s1-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-33x19-q100-s2-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-33x19-q100-s2-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-33x19-q73-s0-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-33x19-q73-s0-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-33x19-q73-s1-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-33x19-q73-s1-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-33x19-q73-s2-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-33x19-q73-s2-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-33x19-restart1-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-33x19-restart1-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-33x19-restart3-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-33x19-restart3-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-33x19.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-7x9-q10-s0-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-7x9-q10-s0-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-7x9-q10-s1-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-7x9-q10-s1-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-7x9-q10-s2-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-7x9-q10-s2-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-7x9-q100-s0-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-7x9-q100-s0-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-7x9-q100-s1-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-7x9-q100-s1-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-7x9-q100-s2-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-7x9-q100-s2-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-7x9-q73-s0-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-7x9-q73-s0-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-7x9-q73-s1-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-7x9-q73-s1-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-7x9-q73-s2-p0.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-7x9-q73-s2-p1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "jpeg-gradient-7x9.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        23,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "offset-firstframe.gif"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "orientation-1.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "orientation-2.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "orientation-3.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "orientation-4.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        13,
+        17
+      ],
+      "maxChannelDelta": 0,
+      "path": "orientation-5.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        13,
+        17
+      ],
+      "maxChannelDelta": 0,
+      "path": "orientation-6.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        13,
+        17
+      ],
+      "maxChannelDelta": 0,
+      "path": "orientation-7.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        13,
+        17
+      ],
+      "maxChannelDelta": 0,
+      "path": "orientation-8.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "palette2.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "progressive.jpg"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "rgb.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "rgb16.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "rgba16.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "transparent-hidden.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "transparent-other.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "transparent.gif"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "trns-gray.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "trns-rgb.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-17x13-q10-s0-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-17x13-q10-s0-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-17x13-q10-s1-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-17x13-q10-s1-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-17x13-q10-s2-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-17x13-q10-s2-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-17x13-q100-s0-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-17x13-q100-s0-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-17x13-q100-s1-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-17x13-q100-s1-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-17x13-q100-s2-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-17x13-q100-s2-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-17x13-q73-s0-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-17x13-q73-s0-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-17x13-q73-s1-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-17x13-q73-s1-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-17x13-q73-s2-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-17x13-q73-s2-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-1x1-q10-s0-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-1x1-q10-s0-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-1x1-q10-s1-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-1x1-q10-s1-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-1x1-q10-s2-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-1x1-q10-s2-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-1x1-q100-s0-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-1x1-q100-s0-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-1x1-q100-s1-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-1x1-q100-s1-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-1x1-q100-s2-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-1x1-q100-s2-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-1x1-q73-s0-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-1x1-q73-s0-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-1x1-q73-s1-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-1x1-q73-s1-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-1x1-q73-s2-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-1x1-q73-s2-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-33x19-CMYK-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-33x19-CMYK-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-33x19-L-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-33x19-L-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-33x19-YCCK-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-33x19-YCCK-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-33x19-exif1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-33x19-exif2.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-33x19-exif3.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-33x19-exif4.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        19,
+        33
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-33x19-exif5.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        19,
+        33
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-33x19-exif6.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        19,
+        33
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-33x19-exif7.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        19,
+        33
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-33x19-exif8.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-33x19-q10-s0-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-33x19-q10-s0-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-33x19-q10-s1-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-33x19-q10-s1-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-33x19-q10-s2-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-33x19-q10-s2-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-33x19-q100-s0-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-33x19-q100-s0-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-33x19-q100-s1-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-33x19-q100-s1-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-33x19-q100-s2-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-33x19-q100-s2-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-33x19-q73-s0-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-33x19-q73-s0-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-33x19-q73-s1-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-33x19-q73-s1-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-33x19-q73-s2-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-33x19-q73-s2-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-33x19-restart1-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-33x19-restart1-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-33x19-restart3-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-33x19-restart3-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-7x9-q10-s0-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-7x9-q10-s0-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-7x9-q10-s1-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-7x9-q10-s1-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-7x9-q10-s2-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-7x9-q10-s2-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-7x9-q100-s0-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-7x9-q100-s0-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-7x9-q100-s1-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-7x9-q100-s1-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-7x9-q100-s2-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-7x9-q100-s2-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-7x9-q73-s0-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-7x9-q73-s0-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-7x9-q73-s1-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-7x9-q73-s1-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-7x9-q73-s2-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-blocks-7x9-q73-s2-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-17x13-q10-s0-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-17x13-q10-s0-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-17x13-q10-s1-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-17x13-q10-s1-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-17x13-q10-s2-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-17x13-q10-s2-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-17x13-q100-s0-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-17x13-q100-s0-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-17x13-q100-s1-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-17x13-q100-s1-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-17x13-q100-s2-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-17x13-q100-s2-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-17x13-q73-s0-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-17x13-q73-s0-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-17x13-q73-s1-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-17x13-q73-s1-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-17x13-q73-s2-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        17,
+        13
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-17x13-q73-s2-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-1x1-q10-s0-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-1x1-q10-s0-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-1x1-q10-s1-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-1x1-q10-s1-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-1x1-q10-s2-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-1x1-q10-s2-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-1x1-q100-s0-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-1x1-q100-s0-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-1x1-q100-s1-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-1x1-q100-s1-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-1x1-q100-s2-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-1x1-q100-s2-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-1x1-q73-s0-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-1x1-q73-s0-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-1x1-q73-s1-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-1x1-q73-s1-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-1x1-q73-s2-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        1,
+        1
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-1x1-q73-s2-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-33x19-CMYK-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-33x19-CMYK-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-33x19-L-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-33x19-L-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-33x19-YCCK-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-33x19-YCCK-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-33x19-exif1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-33x19-exif2.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-33x19-exif3.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-33x19-exif4.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        19,
+        33
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-33x19-exif5.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        19,
+        33
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-33x19-exif6.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        19,
+        33
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-33x19-exif7.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        19,
+        33
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-33x19-exif8.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-33x19-q10-s0-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-33x19-q10-s0-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-33x19-q10-s1-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-33x19-q10-s1-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-33x19-q10-s2-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-33x19-q10-s2-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-33x19-q100-s0-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-33x19-q100-s0-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-33x19-q100-s1-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-33x19-q100-s1-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-33x19-q100-s2-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-33x19-q100-s2-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-33x19-q73-s0-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-33x19-q73-s0-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-33x19-q73-s1-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-33x19-q73-s1-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-33x19-q73-s2-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-33x19-q73-s2-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-33x19-restart1-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-33x19-restart1-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-33x19-restart3-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        33,
+        19
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-33x19-restart3-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-7x9-q10-s0-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-7x9-q10-s0-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-7x9-q10-s1-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-7x9-q10-s1-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-7x9-q10-s2-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-7x9-q10-s2-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-7x9-q100-s0-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-7x9-q100-s0-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-7x9-q100-s1-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-7x9-q100-s1-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-7x9-q100-s2-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-7x9-q100-s2-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-7x9-q73-s0-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-7x9-q73-s0-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-7x9-q73-s1-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-7x9-q73-s1-p1.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-7x9-q73-s2-p0.jpg.png"
+    },
+    {
+      "differentChannels": 0,
+      "differentPixels": 0,
+      "dimensions": [
+        7,
+        9
+      ],
+      "maxChannelDelta": 0,
+      "path": "boundary-jpeg-gradient-7x9-q73-s2-p1.jpg.png"
+    }
+  ],
+  "nativeRepresentationDifferences": [],
+  "pixelmatchRawExact": 702,
+  "pixelmatchSourcePairsExact": 7573,
+  "universalJPEGParity": false
+}
